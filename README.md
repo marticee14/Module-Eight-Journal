@@ -1,6 +1,7 @@
 # Module-Eight-Journal
 Journal Assignment for CS 210 Week 8. 
 
+### Reflection
 1. Summarize the project and what problem it was solving.
    - This assignment includes a text document that includes six cities and their corresponding average yearly temperatures in Fahrenheit. This project aims to utilize this text document by reading its contents, converting the temperature data to Celsius, and writing the converted data to its own file.
 
